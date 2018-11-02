@@ -32,7 +32,7 @@
 #   your code (fancy term for "make it better") by moving it into a Ruby class 
 #   called Weather. Using a class will produce the same output, while making
 #   it more reusable (scalable) and easier to understand. Start by moving the 
-#   code that calls the Dark Sky API (lines 41-45) into the constructor (the 
+#   code that calls the Dark Sky API (lines 55-61) into the constructor (the 
 #   initialize function); modify the constructor so that it accepts a lat/long
 #   for the location. The commented out code at the end should work, once 
 #   you're done.
